@@ -1,0 +1,4 @@
+git clone https://github.com/kimi-crypto/crypto-portfolio-26.git temp
+cd temp
+git remote add target https://github.com/Yurij1234/Coca.git
+git push target main --force
